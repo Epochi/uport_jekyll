@@ -1,0 +1,44 @@
+<section>
+    {% assign components=site.about | where:"slug", "foreveryone" | where:"lang", page.lang %}
+    {% for component in components  %}
+    <div class="container">
+        <div class="row">
+            <div class=" col-sm-12">
+                <div class="block">
+                    <div class="section-title">
+                        <div>{{ component.content }}</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    {% endfor %}
+    {% assign components=site.about | where:"slug", "vision" | where:"lang", page.lang %}
+    {% for component in components  %}
+    <div class="container">
+        <div class="row">
+            <div class=" col-sm-12">
+                <div class="block">
+                    <div class="section-title">
+                        <div>{{ component.content }}</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    {% endfor %}
+    {% assign components=site.about | where:"slug", "mission" | where:"lang", page.lang %}
+    {% for component in components  %}
+    <div class="container">
+        <div class="row">
+            <div class=" col-sm-12">
+                <div class="block">
+                    <div class="section-title">
+                        <div>{{ component.content }}</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    {% endfor %}
+</section>

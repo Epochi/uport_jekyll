@@ -1,0 +1,23 @@
+{% assign components=site.about | where:"slug", "description" | where:"lang", page.lang %}
+{% for component in components  %}
+<section id="intro">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-7 col-sm-12">
+                <div class="block">
+                    <div class="section-title">
+                        <div>{{ component.content }}</div>
+                    </div>
+                </div>
+            </div>
+            <!-- .col-md-7 close -->
+            <div class="col-md-5 col-sm-12">
+                <div class="block">
+                    <img src="{{site.baseurl}}{{component.img_root}}{{component.image}}" alt="Img">
+                </div>
+            </div>
+            <!-- .col-md-5 close -->
+        </div>
+    </div>
+</section>
+{% endfor %}

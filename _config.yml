@@ -38,7 +38,7 @@ defaults:
   - scope:
       path: ""
     values:
-      img_root: "img/"
+      img_root: "/img/"
   - scope:
       path: _about/en
       type: about

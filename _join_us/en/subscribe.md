@@ -4,3 +4,5 @@ image:
 ---
 
 #### Subscribe
+
+lorem ipsum

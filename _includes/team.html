@@ -1,0 +1,21 @@
+<section id="team">
+    <div class="container">
+        <div class="row">
+            <div class="section-title">
+                <h2>Team</h2>
+            </div>
+        </div>
+        <div class="row">
+            {% assign components=site.team | where:"lang", page.lang | sort: "sort_order" %}
+                {% for component in components %}
+
+                <div class="col-sm-12 col-md-12 feature">
+                    <div class="features-item">
+                        <p>{{ component.content }}</p>
+                    </div>
+                </div>
+
+            {% endfor %}
+        </div>
+    </div>
+</section>

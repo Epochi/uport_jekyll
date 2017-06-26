@@ -1,12 +1,14 @@
-/*
- * This css file includes styles added in the jekyll port of this theme.
- * To find the original style.css that ships with Airspace, read airspace.css
- *
- */
-
  .italic {
    font-style: italic;
  }
+ 
+#ECDI-slider{
+  background: url("../img/we_know_you_can_do_it.jpg") no-repeat;
+  background-size: 100vw auto;
+  background-position: center top;
+  padding: calc(100vw * 0.30) 0 calc(100vw * 0.42) 0;
+  position: relative;
+}
 
  .bold {
    font-weight: bold;
@@ -16,6 +18,9 @@
    text-align: center;
  }
 
+.justify-text{
+    text-align:justify;
+}
 .post-area {
   padding: 40px;
   width: 100%;
@@ -35,4 +40,41 @@
 
 .feature{
     min-height: 300px;
+}
+.section-title p {
+    font-style: normal;
+    text-align: justify;
+}
+
+#feature .btn-call-to-action {
+  padding: 15px 35px;
+  border: none;
+  background-color: #fff;
+  font-size: 15px;
+  color: #333333;
+  margin-top: 30px;
+}
+#feature .block{
+    text-align: center;
+}
+
+#slider{
+    background-position: 10% 50%;
+}
+
+#features .features-item h1,
+#features .features-item h2,
+#features .features-item h3,
+#features .features-item h4,
+#features .features-item h5,
+#features .features-item h6{
+    text-align:center;
+}
+
+#features .features-item{
+    text-align:justify;
+}
+
+#team{
+    padding-top:100px;
 }

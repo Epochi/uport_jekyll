@@ -31,6 +31,8 @@ markdown: kramdown
 collections:
     about:
     features:
+    team:
+    join_us:
         
 defaults:
   - scope:
@@ -65,5 +67,35 @@ defaults:
   - scope:
       path: _features/lt
       type: features
+    values:
+      lang: lt
+  - scope:
+      path: _team/en
+      type: team
+    values:
+      lang: en
+  - scope:
+      path: _team/de
+      type: team
+    values:
+      lang: de
+  - scope:
+      path: _team/lt
+      type: team
+    values:
+      lang: lt
+  - scope:
+      path: _join_us/en
+      type: join_us
+    values:
+      lang: en
+  - scope:
+      path: _join_us/de
+      type: join_us
+    values:
+      lang: de
+  - scope:
+      path: _join_us/lt
+      type: join_us
     values:
       lang: lt

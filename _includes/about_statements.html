@@ -13,6 +13,9 @@
         </div>
     </div>
     {% endfor %}
+</section>
+<section id='ECDI-slider'></section>
+<section>
     {% assign components=site.about | where:"slug", "vision" | where:"lang", page.lang %}
     {% for component in components  %}
     <div class="container">

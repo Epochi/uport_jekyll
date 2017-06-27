@@ -45,6 +45,7 @@ prose:
     - 'work.html'
     - 'airspace-jekyll.gemspec'
     - '/_data'
+    - '_config.yml'
 
 # Category descriptions (for archive pages)
 collections:

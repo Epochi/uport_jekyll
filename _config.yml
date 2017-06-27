@@ -27,6 +27,25 @@ markdown: kramdown
 # Google analytics
 # ga_tracking_id: "UA-XXXX-1"
 
+prose:
+  ignore:
+    - '/_layouts'
+    - 'index.md'
+    - '/css'
+    - '/js'
+    - '/fonts'
+    - '/img'
+    - '/_posts'
+    - '/screenshots'
+    - 'Gemfile'
+    - '.gitignore'
+    - 'LICENSE.md'
+    - 'blog.html'
+    - 'contract.html'
+    - 'work.html'
+    - 'airspace-jekyll.gemspec'
+    - '/_data'
+
 # Category descriptions (for archive pages)
 collections:
     about:

@@ -41,7 +41,7 @@ prose:
     - '.gitignore'
     - 'LICENSE.md'
     - 'blog.html'
-    - 'contract.html'
+    - 'contact.html'
     - 'work.html'
     - 'airspace-jekyll.gemspec'
     - '/_data'

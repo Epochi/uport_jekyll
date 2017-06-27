@@ -31,7 +31,6 @@ prose:
   ignore:
     - '/_layouts'
     - 'index.md'
-    - '/css'
     - '/js'
     - '/fonts'
     - '/img'

@@ -5,6 +5,5 @@ published: true
 ---
 
 #### **Categories**
-###
-
+<br>
 For your reading and navigation throughout the page convenience news are classified in categories. Just as we are intuitively used to!

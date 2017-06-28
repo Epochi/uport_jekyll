@@ -4,7 +4,7 @@ img_2: null
 published: true
 ---
 
-## Easy, Entertaining & Involving
+## Easy | Entertaining | Involving
 
 @Uporter we believe that everyone can be a journalist and raise her/his voice to the public.
 Have you just observed the basketball match and your favorite team won? The world must definitely learn key milestones of the game and performance indicators of the players!  

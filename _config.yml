@@ -52,6 +52,7 @@ collections:
     features:
     team:
     join_us:
+    reviews:
         
 defaults:
   - scope:
@@ -116,5 +117,20 @@ defaults:
   - scope:
       path: _join_us/lt
       type: join_us
+    values:
+      lang: lt
+  - scope:
+      path: _reviews/en
+      type: reviews
+    values:
+      lang: en
+  - scope:
+      path: _reviews/de
+      type: reviews
+    values:
+      lang: de
+  - scope:
+      path: _reviews/lt
+      type: reviews
     values:
       lang: lt

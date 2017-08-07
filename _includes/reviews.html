@@ -1,0 +1,18 @@
+      <div class="col-md-6">
+        <div class="testimonial-carousel">
+          <div id="testimonial-slider" class="owl-carousel">
+            {% assign components=site.reviews | where:"lang", page.lang | sort: "sort_order" %}
+            {% for component in components  %}
+            <div>
+                <img src="img/cotation.png" alt="IMG">
+                <p>{{ component.content }}</p>
+                <div class="user">
+                  <img src="{{ component.image }}" alt="Pepole">
+                  <p><span>{{ component.name }}</span> {{ component.title }}</p>
+                </div>
+            </div>
+
+            {% endfor %} 
+          </div>
+        </div>
+      </div>

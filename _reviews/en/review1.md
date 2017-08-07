@@ -10,5 +10,5 @@ description: Fisherman
 #### **Categories**
 <br>
 For your reading and navigation throughout the page convenience news are classified in categories. Just as we are intuitively used to!
-![item-img2.jpg]({{site.baseurl}}/_reviews/en/item-img2.jpg)
+![item-img2.jpg]({{site.baseurl}}/reviews/en/item-img2.jpg)
 

@@ -1,10 +1,5 @@
 ---
-sort_order: 4
-image: img/item-img1.jpg
-name: Bob McBob
-title: Fisherman
-published: true
-description: Fisherman
+sort_order: 3
 ---
 
 #### **Categories**

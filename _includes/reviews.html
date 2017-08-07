@@ -5,13 +5,8 @@
             {% for component in components  %}
             <div>
                 <img src="img/cotation.png" alt="IMG">
-                <p>{{ component.content }}</p>
-                <div class="user">
-                  <img src="{{ component.image }}" alt="Pepole">
-                  <p><span>{{ component.name }}</span> {{ component.title }}</p>
-                </div>
+                {{ component.content }}
             </div>
-
             {% endfor %} 
           </div>
         </div>

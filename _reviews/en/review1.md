@@ -4,6 +4,7 @@ image: img/item-img1.jpg
 name: Bob McBob
 title: Fisherman
 published: true
+description: Fisherman
 ---
 
 #### **Categories**

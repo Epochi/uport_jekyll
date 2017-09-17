@@ -1,6 +1,6 @@
 ---
 sort_order: 1
-image: null
+image: karolis.jpg
 published: true
 ---
 #### Karolis | CEO

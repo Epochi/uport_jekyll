@@ -42,8 +42,8 @@ p{
   color: #0D0017;
 }
 
-.feature{
-    height: 350px;
+.teamer{
+    min-height: 300px;
 }
 
 #feature {
@@ -123,7 +123,6 @@ p{
   padding-top: 20px;
 }
 #about .block img {
-  padding-left: 40px;
   width: 100%;
 }
 #about .section-title {
@@ -131,4 +130,33 @@ p{
 }
 #about .section-title p {
   padding-top: 20px;
+}
+
+@media (min-width: 992px) {
+    #about .block img {
+        padding-left: 40px;
+    }
+}
+
+.feature{
+    height: 350px;
+}
+@media (min-width: 992px) {
+    .feature{
+        height: 350px;
+    }
+}
+@media (max-width: 768px) {
+    .feature{
+        height: initial;
+    }
+}
+
+@media (max-width: 992px) {
+    #features{
+        padding:0px 0px;
+    }
+    #team{
+    padding-top:0px;
+}
 }

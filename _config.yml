@@ -16,11 +16,11 @@ keep_files:
 # Site settings
 title: Uporter
 subtitle: ""
-#url: "https://epochi.github.io" # the base hostname & protocol for your site
-#baseurl: "/uport_jekyll"
-#url: "https://uporter-jekyll-miauwi.c9users.io"
+# url: "https://epochi.github.io" # the base hostname & protocol for your site
+# baseurl: "/uport_jekyll"
+# url: "https://uporter-jekyll-miauwi.c9users.io"
 url: "http://uporter.org"
-baseurl: "/"
+baseurl: ""
 cover: "/assets/cover.png"
 logo: "/assets/logo.png"
 

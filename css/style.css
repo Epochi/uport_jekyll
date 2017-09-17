@@ -146,6 +146,7 @@ p{
         height: 350px;
     }
 }
+
 @media (max-width: 768px) {
     .feature{
         height: initial;
@@ -158,5 +159,21 @@ p{
     }
     #team{
     padding-top:0px;
+    }
 }
+
+.navbar-brand {
+ 
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+
+.navbar-brand > img{
+       margin-top: -7px;
+}
+
+@media (max-width: 768px) {
+    .feature{
+        margin-top: 0px;
+    }
 }

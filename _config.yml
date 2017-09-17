@@ -20,7 +20,7 @@ subtitle: ""
 #baseurl: "/uport_jekyll"
 #url: "https://uporter-jekyll-miauwi.c9users.io"
 baseurl: ""
-url: "https://uporter.org"
+url: "http://uporter.org"
 cover: "/assets/cover.png"
 logo: "/assets/logo.png"
 

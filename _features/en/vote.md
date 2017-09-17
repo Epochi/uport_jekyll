@@ -2,6 +2,7 @@
 sort_order: 2
 image: null
 published: true
+icon: thumb_up
 ---
 #### **Vote**
 <br>

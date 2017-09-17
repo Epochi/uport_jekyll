@@ -6,18 +6,6 @@ published: true
 #### Subscribe
 
 Can’t wait to start reading news on Uporter? Leave us your email and we will inform you when the platform is fully launched and saturated with critical volume of content!
-<!--<form class="form-inline" action="email:together@uporter.org">-->
-<!--    <div class="input-group">-->
-<!--      <input type="email" class="form-control " id="subscribeEmail" placeholder="Email">-->
-<!--      <span class="input-group-btn">-->
-<!--        <button type="submit" class="btn btn-default">Subscribe!</button>-->
-<!--      </span>-->
-<!--    </div>-->
-<!--</form>-->
-
-
-<!-- Begin MailChimp Signup Form -->
-
 <form action="//uporter.us16.list-manage.com/subscribe/post?u=7e10234673ca8808f8b3a3eda&amp;id=7b27282e8c" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate form-inline" target="_blank" novalidate>
   <div id="mc_embed_signup_scroll">
     <div class="mc-field-group input-group">

@@ -47,7 +47,7 @@ p{
 }
 
 #feature {
-    padding:200px 0px;
+    padding:100px 0px;
     margin-bottom: 10vh;
     color: #fff;
 }
@@ -90,9 +90,6 @@ p{
     text-align:justify;
 }
 
-#team{
-    padding-top:100px;
-}
 
 
 /* Rules for sizing the icon. */

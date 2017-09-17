@@ -18,7 +18,7 @@ News providers that are willing to collaborate with us on conditional sharing of
 
 We would also truly value your opinion and feedback upon Uporter. Please refer to one of the surveys to share with us your impression. 
 
-|[World](https://goo.gl/forms/bPKQUPrI3oL5L2Cr2 )|
+--> [World](https://goo.gl/forms/bPKQUPrI3oL5L2Cr2 )|
 
 |[Lithuania](https://goo.gl/forms/Su4LqPorfWy0Uaug1 )|
 

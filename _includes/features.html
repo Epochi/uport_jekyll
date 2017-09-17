@@ -5,16 +5,15 @@
                 <h2>Features</h2>
             </div>
         </div>
-        <div class="row ">
+        <div class="row">
             {% assign components=site.features | where:"lang", page.lang | sort: "sort_order" %}
                 {% for component in components %}
-
                 <div class="col-sm-6 col-md-4 feature">
                     <div class="features-item">
+                        <div class="center-text"><i class="material-icons md-48">{{component.icon}}</i></div>
                         <p>{{ component.content }}</p>
                     </div>
                 </div>
-
             {% endfor %}
         </div>
     </div>

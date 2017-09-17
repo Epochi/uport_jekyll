@@ -170,7 +170,7 @@ font header .navbar-default .navbar-nav li a:hover {
   padding-bottom: 30px;
 }
 #features .features-item i {
-  font-size: 60px;
+  /*font-size: 60px;*/
   color: #4A4656;
 }
 #features .features-item h4 {

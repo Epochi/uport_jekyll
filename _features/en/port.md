@@ -1,6 +1,7 @@
 ---
 sort_order: 1
 image: null
+icon: cloud
 published: true
 ---
 

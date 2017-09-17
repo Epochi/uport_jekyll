@@ -2,7 +2,7 @@
 sort_order: 3
 image: null
 published: true
-picture: alicia
+picture: alicia.jpg
 ---
 
 #### Alicia | CEO

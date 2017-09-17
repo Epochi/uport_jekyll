@@ -6,6 +6,7 @@ published: true
 
 ### Team-up!
 
+
 If you are an honest and positive citizen of the world who believes in transparent and happy societies around the globe, join our team and help us to change the way we receive and perceive information.
 Brief us on what you could teach us and share your Resume via [together@uporter.org](together@uporter.org). 
 

@@ -2,6 +2,7 @@
 sort_order: 6
 image: null
 published: true
+icon: trending_up
 ---
 
 #### **Trends**

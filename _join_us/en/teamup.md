@@ -13,3 +13,10 @@ Brief us on what you could teach us and share your Resume via [together@uporter.
 <br>
 
 News providers that are willing to collaborate with us on conditional sharing of the content; Organizations that promote free and independent media; Media houses that would like to negotiate advertising options; Companies that would like to establish joint projects; and others are kindly invited to approach us via [together@uporter.org](together@uporter.org).
+
+<br>
+
+We would truly value your opinion and feedback upon Uporter. Please refer to one of the surveys to share with us your impression. 
+
+[World](https://goo.gl/forms/bPKQUPrI3oL5L2Cr2 )			[Lithuania](https://goo.gl/forms/Su4LqPorfWy0Uaug1 )			[Germany](https://goo.gl/forms/7nVs6grkHko2ndJ43)
+

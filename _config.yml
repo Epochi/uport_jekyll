@@ -16,10 +16,10 @@ keep_files:
 # Site settings
 title: up
 subtitle: ""
-url: "https://epochi.github.io" # the base hostname & protocol for your site
-baseurl: "/uport_jekyll"
-# url: "https://uporter-jekyll-miauwi.c9users.io"
-# baseurl: ""
+# url: "https://epochi.github.io" # the base hostname & protocol for your site
+# baseurl: "/uport_jekyll"
+url: "https://uporter-jekyll-miauwi.c9users.io"
+baseurl: ""
 cover: "/assets/cover.png"
 logo: "/assets/logo.png"
 
@@ -49,6 +49,7 @@ prose:
 
 # Category descriptions (for archive pages)
 collections:
+    subheader:
     about:
     features:
     team:
@@ -133,5 +134,20 @@ defaults:
   - scope:
       path: _reviews/lt
       type: reviews
+    values:
+      lang: lt
+  - scope:
+      path: _subheader/en
+      type: subheader
+    values:
+      lang: en
+  - scope:
+      path: _subheader/de
+      type: subheader
+    values:
+      lang: de
+  - scope:
+      path: _subheader/lt
+      type: subheader
     values:
       lang: lt

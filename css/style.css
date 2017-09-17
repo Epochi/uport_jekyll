@@ -48,6 +48,11 @@ p{
 
 #feature {
     padding:200px 0px;
+    margin-bottom: 10vh;
+    color: #fff;
+}
+#feature p{
+    color: #fff;
 }
 
 .section-title p {

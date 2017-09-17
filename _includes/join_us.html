@@ -8,12 +8,26 @@
     </div>
 </section>
 {% assign components=site.join_us | where:"lang", page.lang | sort: "sort_order" %}
+{% for component in components  %}
+    {% if component.title=="Subscribe" %}
+<section id="feature">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12 col-md-offset-0">
+          <div class="block">
+               {{ component.content }}
+           </div>
+        </div>
+      </div>
+    </div>
+</section>
+{% endif  %}
+{% endfor %}
 <section>
     <div class="container">
         <div class="row">
             {% for component in components  %}
-            {% if component.title==="Subscribe" %}
-            {% else %}
+            {% unless component.title=="Subscribe" %}
             <div class="col-xs-12">
                 <div class="block">
                     <div class="section-title">
@@ -21,7 +35,7 @@
                     </div>
                 </div>
             </div>
-            {% endif %}
+            {% endunless  %}
             {% endfor %}
         </div>
     </div>

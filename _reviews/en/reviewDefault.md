@@ -9,4 +9,3 @@ published: true
     <img src="{{site.baseurl}}/reviews/en/item-img1.jpg">
     <p><span>Todd Rodd</span> CEO-Themefish </p>
  </div>
-​

@@ -10,7 +10,7 @@ p{
   background: url("../img/we_know_you_can_do_it.jpg") no-repeat;
   background-size: 100vw auto;
   background-position: center top;
-  padding: calc(100vw * 0.30) 0 calc(100vw * 0.42) 0;
+  padding: calc(100vw * 0.24) 0 calc(100vw * 0.24) 0;
   position: relative;
 }
 

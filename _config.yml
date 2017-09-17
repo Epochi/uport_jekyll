@@ -11,6 +11,7 @@ keep_files:
   - "CNAME"
   - ".git"
   - ".gitignore"
+  - "favicon.ico"
 
 
 # Site settings

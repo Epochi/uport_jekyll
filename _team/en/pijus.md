@@ -2,7 +2,7 @@
 sort_order: 2
 image: null
 published: true
-picture: pijus
+picture: pijus.jpg
 ---
 
 #### Pijus | CTO

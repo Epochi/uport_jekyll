@@ -5,16 +5,23 @@
                 <h2>Join us</h2>
             </div>
         </div>
+    </div>
+</section>
+{% assign components=site.join_us | where:"lang", page.lang | sort: "sort_order" %}
+<section>
+    <div class="container">
         <div class="row">
-            {% assign components=site.join_us | where:"lang", page.lang | sort: "sort_order" %}
             {% for component in components  %}
-            <div class="col-md-7 col-sm-12">
+            {% if component.title==="Subscribe" %}
+            {% else %}
+            <div class="col-xs-12">
                 <div class="block">
                     <div class="section-title">
                         <div>{{ component.content }}</div>
                     </div>
                 </div>
             </div>
+            {% endif %}
             {% endfor %}
         </div>
     </div>

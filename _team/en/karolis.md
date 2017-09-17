@@ -1,10 +1,12 @@
 ---
 sort_order: 1
-image:
+image: null
+published: true
 ---
+![Karolis_Edit_2.jpg]({{site.baseurl}}/_team/en/Karolis_Edit_2.jpg)
 
 #### Karolis | CEO
 
 Sensei and gatekeeper of Uporter. Philosopher in heart yet diligent business executive in mind. 
 
-Holds Master’s Degree in International Economics from heterodox Berlin School of Economics and Law along with over 5 years of hands on international marketing experience in FMCG, Telecommunications and Banking industries. 
+Holds Master’s Degree in International Economics from heterodox Berlin School of Economics and Law along with over 5 years of hands on international marketing experience in FMCG, Telecommunications and Banking industries.

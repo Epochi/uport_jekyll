@@ -16,7 +16,7 @@ News providers that are willing to collaborate with us on conditional sharing of
 
 <br>
 
-We would also truly value your opinion and feedback upon Uporter. Please refer to one of the surveys to share with us your impression. 
+We would also truly value your opinion and feedback upon Uporter idea. Please refer to one of the surveys to share with us your impression. 
 
 -[World](https://goo.gl/forms/bPKQUPrI3oL5L2Cr2 )
 

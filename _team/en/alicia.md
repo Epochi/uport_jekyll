@@ -4,7 +4,7 @@ published: true
 image: alicia.jpg
 ---
 
-#### Alicia | CEO
+#### Alicia | CMO
 
 Zen Master in digital media and European markets.  
 

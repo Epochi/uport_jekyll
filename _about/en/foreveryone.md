@@ -11,6 +11,7 @@ Uporter will be launched in different countries adjusted to the local media need
 Ultimately, we see our users as citizens of the world without any strict segmentation. However, we focus on people that make use of internet access and prefer reading latest daily news online. In a nutshell, it would be people of 14+ years of age that are considerably internet savvy. For instance, in Germany alone we are talking to the group of 25 million (31% of population) who read news mostly online (de.statista.com).
 
 <br>
+
 To portray a better picture of daily app consumption, we would like to mention a couple of case simulations emphasizing its’ simplicity and relevance: 
 
 Case #1: You just have observed a basketball match and your favorite team won. World must definitely learn key milestones of the game and performance indicators of the players via the Sports category on Uporter.

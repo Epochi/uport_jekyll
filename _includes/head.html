@@ -30,3 +30,13 @@
 
 
 <script src="{{ site.baseurl }}/js/main.js"></script>
+
+<!-- Global Site Tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id={{site.ga_tracking_id}}"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments)};
+  gtag('js', new Date());
+
+  gtag('config', '{{site.ga_tracking_id}}');
+</script>

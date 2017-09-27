@@ -4,5 +4,5 @@
 
 <div class="user">
 	<img src="{{site.baseurl}}/reviews/item-img1.jpg">
-    <p><span>Marco Ceroni</span> Pricing Expert, Italy </p>
+    <p><span>Marco Ceroni</span> Finance Specialist, Italy </p>
  </div>

@@ -4,7 +4,7 @@ published: true
 image: pijus.jpg
 ---
 
-#### Pijus | CTO
+#### Pijus | Technology
 
 Grand Master of the binary universe and technical intellect of the Uporter. 
 

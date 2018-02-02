@@ -3,7 +3,7 @@ sort_order: 1
 image: karolis.jpg
 published: true
 ---
-#### Karolis | CEO
+#### Karolis | Business 
 
 Sensei and gatekeeper of Uporter. Philosopher in heart yet diligent business executive in mind. 
 

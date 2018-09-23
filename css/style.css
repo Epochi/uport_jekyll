@@ -269,6 +269,8 @@ footer .footer-menu ul li a:hover {
 }
 
 .modal-dialog {
+    width: -webkit-fit-content !important;
+    width: -moz-fit-content !important;
     width: fit-content !important;
     margin: 10px auto;
 }

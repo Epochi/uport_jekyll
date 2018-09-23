@@ -281,7 +281,7 @@ footer .footer-menu ul li a:hover {
     }
 }
 
-@media (min-width: 768px) {
+@media (min-width: 767px) {
     .modal-dialog img.mobile {
         display: none;
     }

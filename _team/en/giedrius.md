@@ -1,6 +1,6 @@
 ---
 sort_order: 3
-image: giedrius.jpg
+image: Giedrius.jpg
 published: true
 ---
 #### Giedrius | Product 

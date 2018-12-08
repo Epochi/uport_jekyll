@@ -45,6 +45,9 @@ p{
 .teamer{
     min-height: 300px;
 }
+.teamer img-responsive {
+    width:100%;
+}
 
 #feature {
     padding:100px 0px;

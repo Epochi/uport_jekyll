@@ -45,7 +45,7 @@ p{
 .teamer{
     min-height: 300px;
 }
-.teamer img-responsive {
+.teamer .img-responsive {
     width:100%;
 }
 
